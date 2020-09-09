@@ -1,0 +1,11 @@
+C:\Users\yzn\source\repos\2.4\2.4\obj\Debug\netcoreapp2.1\2.4.csprojAssemblyReference.cache
+C:\Users\yzn\source\repos\2.4\2.4\obj\Debug\netcoreapp2.1\2.4.csproj.CoreCompileInputs.cache
+C:\Users\yzn\source\repos\2.4\2.4\obj\Debug\netcoreapp2.1\2.4.AssemblyInfoInputs.cache
+C:\Users\yzn\source\repos\2.4\2.4\obj\Debug\netcoreapp2.1\2.4.AssemblyInfo.cs
+C:\Users\yzn\source\repos\2.4\2.4\bin\Debug\netcoreapp2.1\2.4.deps.json
+C:\Users\yzn\source\repos\2.4\2.4\bin\Debug\netcoreapp2.1\2.4.runtimeconfig.json
+C:\Users\yzn\source\repos\2.4\2.4\bin\Debug\netcoreapp2.1\2.4.runtimeconfig.dev.json
+C:\Users\yzn\source\repos\2.4\2.4\bin\Debug\netcoreapp2.1\2.4.dll
+C:\Users\yzn\source\repos\2.4\2.4\bin\Debug\netcoreapp2.1\2.4.pdb
+C:\Users\yzn\source\repos\2.4\2.4\obj\Debug\netcoreapp2.1\2.4.dll
+C:\Users\yzn\source\repos\2.4\2.4\obj\Debug\netcoreapp2.1\2.4.pdb
